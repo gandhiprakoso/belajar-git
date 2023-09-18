@@ -1,1 +1,2 @@
-print('hello world dari github')
+print('hello world dari github\n')
+print('hello world dari folder local')
